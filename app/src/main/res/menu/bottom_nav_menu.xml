@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="SOS"
+        android:id="@+id/sos"
+        android:icon="@drawable/sos_icon_foreground"/>
+
+    <item android:title="Add SOS Number"
+        android:id="@+id/add_number"
+        android:icon="@drawable/add_number_icon"/>
+</menu>
